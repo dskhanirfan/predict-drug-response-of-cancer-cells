@@ -1,4 +1,4 @@
-# predict-drug-response-of-cancer-cells
+# predict-drug-response-of-cancer-celllines
 
 To use gene expression data to predict drug response of cancer cells.
 
